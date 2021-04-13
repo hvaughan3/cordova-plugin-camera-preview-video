@@ -1,6 +1,12 @@
 Cordova Plugin Camera Preview
 ====================
 
+
+Fork from: https://github.com/Avishaidev/camera-preview-video
+
+Attempting to get iOS recording from preview working...
+
+
 Cordova plugin that allows camera interaction from Javascript and HTML
 
 **Releases are being kept up to date when appropriate. However, this plugin is under constant development. As such it is recommended to use master to always have the latest fixes & features.**
